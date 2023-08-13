@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello world ! My name is Jixu
+          Hello world ! Build first my app
         </a>
       </header>
     </div>
