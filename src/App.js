@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello world ! Build first my app
+          Hello world ! Đụ mẹ ông záo ngáo
         </a>
       </header>
     </div>
